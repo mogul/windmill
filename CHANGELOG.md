@@ -1,6 +1,27 @@
 # Changelog
 
 
+## [1.220.0](https://github.com/windmill-labs/windmill/compare/v1.219.1...v1.220.0) (2023-12-03)
+
+
+### Features
+
+* **frontend:** add before and after icons for text input components ([#2746](https://github.com/windmill-labs/windmill/issues/2746)) ([a3f1111](https://github.com/windmill-labs/windmill/commit/a3f1111ca7715ffaa3a615786adee20e00870b30))
+* result preview in app editor ([#2761](https://github.com/windmill-labs/windmill/issues/2761)) ([51d648d](https://github.com/windmill-labs/windmill/commit/51d648d450c578580f6d9a9630ff91920060cc27))
+* save inline scripts of apps to workspace + search by path ([f50cef0](https://github.com/windmill-labs/windmill/commit/f50cef03670e50b8d7a6bb4719ae636f2714f22f))
+
+
+### Bug Fixes
+
+* do not prorate for team plan checkouts mornings of firsts ([#2751](https://github.com/windmill-labs/windmill/issues/2751)) ([8fc0afc](https://github.com/windmill-labs/windmill/commit/8fc0afce714774647f86e1aca8eeec4b7d4c13fc))
+* fix early return sync on existing flows ([60c4860](https://github.com/windmill-labs/windmill/commit/60c486023310ef85d1cb171ebca792be8d7917e8))
+* **frontend:** fix resource search ([#2748](https://github.com/windmill-labs/windmill/issues/2748)) ([6eaec47](https://github.com/windmill-labs/windmill/commit/6eaec471629d6c60e6c3123372fa3569bc5471c7))
+* **frontend:** fix sign in with Google button ([#2756](https://github.com/windmill-labs/windmill/issues/2756)) ([8ca04e4](https://github.com/windmill-labs/windmill/commit/8ca04e49b061675f820e4aeaad6196403eabe135))
+* **frontend:** fix tutorials contols ([#2745](https://github.com/windmill-labs/windmill/issues/2745)) ([85805bd](https://github.com/windmill-labs/windmill/commit/85805bdf8265f4fe14a583b43b786257ffccc4dc))
+* improve azure openai readme ([#2754](https://github.com/windmill-labs/windmill/issues/2754)) ([d47d4cc](https://github.com/windmill-labs/windmill/commit/d47d4ccf85747a14e0498be871ead08371392ff5))
+* show bg runnables currently running ([a122b6c](https://github.com/windmill-labs/windmill/commit/a122b6cab664e0b8b3d7223b9fd70569a2fe0991))
+* string or enum ([#2752](https://github.com/windmill-labs/windmill/issues/2752)) ([583dae6](https://github.com/windmill-labs/windmill/commit/583dae6a72ee6be70dee5a356e1b4172db9a7e2d))
+
 ## [1.219.1](https://github.com/windmill-labs/windmill/compare/v1.219.0...v1.219.1) (2023-12-01)
 
 
